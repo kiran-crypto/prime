@@ -1,5 +1,5 @@
 # prime
-# Python program to print all 
+# java program to print all 
 # prime number in an interval
 # number should be greater than 1
 import java.util.Scanner;
